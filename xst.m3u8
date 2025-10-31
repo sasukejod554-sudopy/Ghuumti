@@ -3,3 +3,11 @@
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="Sports",Star Sports 3 SD
 http://87.255.35.150:18804/
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel SD
+http://116.90.120.149:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids",Disney International HD SD
+http://116.90.120.149:8000/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior SD
+http://116.90.120.149:8000/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png" group-title="Kids",Hungama TV SD
+http://87.255.35.150:18811/
