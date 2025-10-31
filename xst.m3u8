@@ -41,3 +41,7 @@ http://116.90.120.149:8000/play/a0c2/index.m3u8
 http://87.255.35.150:18237/
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="Movies",Zee Cinema SD
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="Sports",Star Sports 2 HD
+http://87.255.35.150:18828/
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi SD
+http://116.90.120.149:8000/play/a0cs/index.m3u8
